@@ -22,7 +22,7 @@ public class Controller implements ActionListener{
         view.addActionListener(this);
         view.setVisible(true);
         db = new Database();
-    }
+    };
 
     @Override
     public void actionPerformed(ActionEvent ae) {
