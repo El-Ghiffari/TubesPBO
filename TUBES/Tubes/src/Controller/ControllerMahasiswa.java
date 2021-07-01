@@ -24,7 +24,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author satria
+ * @author satria, deni
  */
 public class ControllerMahasiswa extends MouseAdapter implements ActionListener{
     private GUIMahasiswa view;
