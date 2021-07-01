@@ -7,7 +7,7 @@ package GUI;
 
 /**
  *
- * @author user
+ * @author R O G
  */
 import java.awt.event.ActionListener;
 import javax.swing.JButton;
