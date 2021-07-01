@@ -19,7 +19,7 @@ import tubes.GUIDosen;
 
 /**
  *
- * @author satria
+ * @author satria simalakama
  */
 public class ControllerDosen implements ActionListener{
     private GUIDosen viewDosen;           
